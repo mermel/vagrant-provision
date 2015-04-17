@@ -21,6 +21,8 @@ https://www.virtualbox.org/
 
 7. $ run go hello.go (confirm environemnt configured correctly)
 
+8. $ export GOPATH=$HOME/gocode
+
 
 
 
