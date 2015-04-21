@@ -19,9 +19,8 @@ https://www.virtualbox.org/
 
 7. $ cd /vagrant
 
-7. $ run go hello.go (confirm environemnt configured correctly)
+8. $ go build
 
-8. $ export GOPATH=$HOME/gocode
 
 
 
